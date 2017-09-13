@@ -1,0 +1,11 @@
+{
+  "name": "hans2103/captcha",
+  "type": "magento-module",
+  "homepage": "https://github.com/hans2103/captcha",
+  "description": "Customizing Magento’s Native Captcha",
+  "authors": [
+    {
+      "name": "Hans Kuijpers"
+    }
+  ]
+}
