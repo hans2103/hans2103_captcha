@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Hans2103_Captcha>
+            <version>0.1.0</version>
+        </Hans2103_Captcha>
+    </modules>
+    <global>
+        <blocks>
+            <captcha>
+                <rewrite>
+                    <captcha_zend>Hans2103_Captcha_Block_Captcha_Zend</captcha_zend>
+                </rewrite>
+            </captcha>
+        </blocks>
+    </global>
+</config>
